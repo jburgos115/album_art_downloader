@@ -1,4 +1,4 @@
-# artwork_downloader
+# artwork_finder
 HOW TO USE
   1. Locate the folder containing your mp3 files.
   2. Paste the folder path below.
