@@ -5,7 +5,3 @@ HOW TO USE
   3. Locate/create a folder for downloading artwork.
   4. Paste download folder path when prompted to.
 
-Creator Notes:
-  - Implement more multiple web sources
-  - Create basic gui elements (no cmd/explore api's)
-  - Re-create program using oop
